@@ -1,8 +1,0 @@
-Earth Online v2.3.0 安卓触控版项目
-
-本压缩包是可构建的 Android 项目，不是现成 APK。
-最快获得 APK：把全部文件上传到 GitHub 仓库根目录，在 Actions 中运行 Build Android APK，构建完成后下载 EarthOnline-v2.3.0-Android-arm64。
-详细步骤见 BUILD_WITH_GITHUB.md。
-
-Windows 上可双击 PREVIEW_ON_PC.cmd 预览手机界面。
-手机与电脑可通过“导出存档/导入存档”交换同一个 SQLite 数据库。
